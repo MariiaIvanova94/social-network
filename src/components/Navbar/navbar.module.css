@@ -1,0 +1,21 @@
+.navigation {
+    width: 10%;
+    min-width: 145px;
+    background-color: antiquewhite;
+}
+
+.navigation__bar_item {
+    color: aqua;
+    text-decoration: none;
+}
+
+.navigation__bar_item:hover {
+    color: yellowgreen;
+}
+
+.active {
+    color: brown;
+}
+.navigation__bar {
+    list-style-type: none;
+}
